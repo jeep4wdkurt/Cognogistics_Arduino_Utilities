@@ -1,2 +1,6 @@
-# Cognogistics_ESP32_CameraInfo
-ESP32 Camera Debug Info
+# Cognogistics_Arduino_Utilities
+
+Utiliites for Arduino development
+
+Modules:
+  o TBD :-)
